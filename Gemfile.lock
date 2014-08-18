@@ -114,6 +114,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  coffee-script-source (= 1.7.1)
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.4)
